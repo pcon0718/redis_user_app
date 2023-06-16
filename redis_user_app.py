@@ -13,6 +13,6 @@ value = ''.join(random.choices(string.ascii_uppercase + string.digits, k=V))
 print(key)
 print(value)
 
-r = redis.Redis(host='redis.conwayhouse.online', port=6379)
+r = redis.Redis(host='redis', port=6379)
 r.set(key,value)
 # r.get('foo')
