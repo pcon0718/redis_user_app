@@ -11,4 +11,4 @@ advised if you plan to use it on a more regular basis.
 
 ## Included Files
 `redis_user_app.py`: the main application
-`wordlist.10000`: a list of 10000 words in alphabetical order gathered from [Eric Price's](https://www.cs.utexas.edu/~ecprice/) [MIT Wordlist](https://www.mit.edu/~ecprice/wordlist.10000)
+`wordlist.10000`: a list of 10000 words in alphabetical order gathered from [Eric Price's](https://www.cs.utexas.edu/~ecprice/) [MIT Wordlist](https://www.mit.edu/~ecprice/wordlist.10000).
