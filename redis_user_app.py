@@ -1,5 +1,4 @@
 import redis
-import string
 import random
 
 def get_list_of_words(path):
